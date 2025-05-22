@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/rockmax010) 
+[![codewars](https://www.codewars.com/users/rockmax010/badges/small)](https://www.codewars.com/users/rockmax010) 
 
 <!--
 **MaximRock/MaximRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
